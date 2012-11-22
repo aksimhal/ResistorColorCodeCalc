@@ -1,0 +1,1 @@
+This is the source code for the Windows 8 Application, "Resistor Color Code Calculator."  The project is open source, so feel free to grab the code and expand the application. If you have any questions, please feel free to contact me. 
